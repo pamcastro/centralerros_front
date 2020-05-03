@@ -1,7 +1,7 @@
 # Log management tool
 Squad-3 - Python Women Loadsmart
 
-This is  log management tool to unify your logs and  monitoring them.
+This is a log management tool to unify your logs and  monitoring them.
 It's useful to detect and respond to performance issues.
 
 On modern projects, it is  common the use of architectures based on services or microservices. 
